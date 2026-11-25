@@ -59,7 +59,7 @@ The primary evaluation metric is **end-to-end aspect–sentiment Macro-F1**.
 .
 ├── dataset/                  # Stores datasets collected and processed during the research
 ├── pilot_annotated_50/       # Contains pilot annotation data from two annotators for agreement evaluation
-├── main_notebook.ipynb       # Main notebook covering data collection, preprocessing, EDA, sampling, and pilot annotation
+├── main_notebook.ipynb       # Main notebook covering data collection, EDA, Data Filtering, Data sampling, and pilot annotation
 └── README.md                 # Provides an overview of the project, research objectives, methodology, and repository structure
 ```
 
