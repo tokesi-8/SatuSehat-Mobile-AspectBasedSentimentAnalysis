@@ -55,13 +55,12 @@ Duplicate, empty, irrelevant, spam, and non-eligible language reviews are exclud
 The primary evaluation metric is **end-to-end aspect–sentiment Macro-F1**.
 
 ## Repository Structure
-
-```text
+```
 .
-├── dataset/
-├── pilot_annotated_50/
-├── main_notebook.ipynb
-└── README.md
+├── dataset/                  # Stores datasets collected and processed during the research
+├── pilot_annotated_50/       # Contains pilot annotation data from two annotators for agreement evaluation
+├── main_notebook.ipynb       # Main notebook covering data collection, preprocessing, EDA, sampling, and pilot annotation
+└── README.md                 # Provides an overview of the project, research objectives, methodology, and repository structure
 ```
 
 ## Contributors
